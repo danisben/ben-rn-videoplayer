@@ -11,16 +11,7 @@
     "url": "git+https://github.com/danisben/react-native-rn-videoplayer.git"
   },
   "keywords": [
-    "react-native",
-    "react-native-video",
-    "videoplayer",
-    "video",
-    "player",
-    "gesture",
-    "control",
-    "volume",
-    "brightness",
-    "progress"
+    "ben-rn-videoplayer"
   ],
   "author": {
     "name": "Ben",
