@@ -1,6 +1,6 @@
 {
   "name": "ben-rn-videoplayer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "RN video player based on https://github.com/A-ANing/react-native-rn-videoplayer",
   "main": "index.js",
   "scripts": {
